@@ -10,7 +10,7 @@ We use the standard Fork and Pull Request workflow for all contributions..dkdbbd
 
 Start by forking the `MyFinanceTracker` repository on GitHub to create your own copy.
 
-![Forking the repository](docs/images/github_fork.png)
+![Forking the repository - First step](docs/images/forkpicture.png) ![Forking the repository - Second step](docs/images/forkpic2.png) 
 
 ### 2. Clone Your Fork
 
