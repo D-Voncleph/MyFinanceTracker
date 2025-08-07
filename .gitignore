@@ -1,0 +1,9 @@
+# Ignore secret keys and environment variables
+secret.key
+.env
+
+# Ignore all log files
+*.log
+
+# Ignore build directories
+build/
